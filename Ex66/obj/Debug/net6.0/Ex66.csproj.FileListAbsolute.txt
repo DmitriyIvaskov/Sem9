@@ -1,0 +1,15 @@
+D:\00_GeekBrains\Урок 9. Рекурсия\Sem9\Ex66\bin\Debug\net6.0\Ex66.exe
+D:\00_GeekBrains\Урок 9. Рекурсия\Sem9\Ex66\bin\Debug\net6.0\Ex66.deps.json
+D:\00_GeekBrains\Урок 9. Рекурсия\Sem9\Ex66\bin\Debug\net6.0\Ex66.runtimeconfig.json
+D:\00_GeekBrains\Урок 9. Рекурсия\Sem9\Ex66\bin\Debug\net6.0\Ex66.dll
+D:\00_GeekBrains\Урок 9. Рекурсия\Sem9\Ex66\bin\Debug\net6.0\Ex66.pdb
+D:\00_GeekBrains\Урок 9. Рекурсия\Sem9\Ex66\obj\Debug\net6.0\Ex66.csproj.AssemblyReference.cache
+D:\00_GeekBrains\Урок 9. Рекурсия\Sem9\Ex66\obj\Debug\net6.0\Ex66.GeneratedMSBuildEditorConfig.editorconfig
+D:\00_GeekBrains\Урок 9. Рекурсия\Sem9\Ex66\obj\Debug\net6.0\Ex66.AssemblyInfoInputs.cache
+D:\00_GeekBrains\Урок 9. Рекурсия\Sem9\Ex66\obj\Debug\net6.0\Ex66.AssemblyInfo.cs
+D:\00_GeekBrains\Урок 9. Рекурсия\Sem9\Ex66\obj\Debug\net6.0\Ex66.csproj.CoreCompileInputs.cache
+D:\00_GeekBrains\Урок 9. Рекурсия\Sem9\Ex66\obj\Debug\net6.0\Ex66.dll
+D:\00_GeekBrains\Урок 9. Рекурсия\Sem9\Ex66\obj\Debug\net6.0\refint\Ex66.dll
+D:\00_GeekBrains\Урок 9. Рекурсия\Sem9\Ex66\obj\Debug\net6.0\Ex66.pdb
+D:\00_GeekBrains\Урок 9. Рекурсия\Sem9\Ex66\obj\Debug\net6.0\Ex66.genruntimeconfig.cache
+D:\00_GeekBrains\Урок 9. Рекурсия\Sem9\Ex66\obj\Debug\net6.0\ref\Ex66.dll
